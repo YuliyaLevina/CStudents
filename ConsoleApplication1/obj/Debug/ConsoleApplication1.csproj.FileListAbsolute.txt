@@ -20,3 +20,20 @@ D:\Trainings\Tests Automation\TrainingProjects\ConsoleApplication1\ConsoleApplic
 D:\Trainings\Tests Automation\TrainingProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Trainings\Tests Automation\TrainingProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 D:\Trainings\Tests Automation\TrainingProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\xunit.abstractions.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\xunit.assert.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\xunit.core.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\xunit.execution.dotnet.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\xunit.abstractions.xml
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\xunit.assert.xml
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\xunit.core.xml
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\bin\Debug\xunit.execution.dotnet.xml
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

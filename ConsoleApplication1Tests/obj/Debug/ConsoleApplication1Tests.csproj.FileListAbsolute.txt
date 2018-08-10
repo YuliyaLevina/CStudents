@@ -29,3 +29,26 @@ D:\Trainings\Tests Automation\TrainingProjects\ConsoleApplication1\ConsoleApplic
 D:\Trainings\Tests Automation\TrainingProjects\ConsoleApplication1\ConsoleApplication1Tests\obj\Debug\ConsoleApplication1Tests.csproj.CopyComplete
 D:\Trainings\Tests Automation\TrainingProjects\ConsoleApplication1\ConsoleApplication1Tests\obj\Debug\ConsoleApplication1Tests.dll
 D:\Trainings\Tests Automation\TrainingProjects\ConsoleApplication1\ConsoleApplication1Tests\obj\Debug\ConsoleApplication1Tests.pdb
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\ConsoleApplication1Tests.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\ConsoleApplication1Tests.pdb
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\ConsoleApplication1.exe
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\nunit.framework.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\xunit.abstractions.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\xunit.assert.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\xunit.core.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\xunit.execution.dotnet.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\ConsoleApplication1.pdb
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\ConsoleApplication1.exe.config
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\nunit.framework.pdb
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\nunit.framework.xml
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\xunit.abstractions.xml
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\xunit.assert.xml
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\xunit.core.xml
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\bin\Debug\xunit.execution.dotnet.xml
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\obj\Debug\ConsoleApplication1Tests.csprojAssemblyReference.cache
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\obj\Debug\ConsoleApplication1Tests.csproj.CoreCompileInputs.cache
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\obj\Debug\ConsoleApplication1Tests.csproj.CopyComplete
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\obj\Debug\ConsoleApplication1Tests.dll
+D:\Trainings\GitCStudent\CStudents\ConsoleApplication1Tests\obj\Debug\ConsoleApplication1Tests.pdb
